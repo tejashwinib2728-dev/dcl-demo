@@ -1,3 +1,3 @@
 # dcl-demo
-this is my first repositopry
+this is my first repository
 author-tejashwini
